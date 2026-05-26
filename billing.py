@@ -1,1 +1,1 @@
-generate_pdf_bill()
+
